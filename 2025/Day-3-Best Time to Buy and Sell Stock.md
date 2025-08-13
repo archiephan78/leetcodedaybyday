@@ -1,4 +1,4 @@
-# [1] Best Time to Buy and Sell Stock
+# [3] Best Time to Buy and Sell Stock
 
 **Date**: 2025-08-14
 
