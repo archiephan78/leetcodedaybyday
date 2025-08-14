@@ -18,9 +18,7 @@ def solution():
 ```
 
 ## Notes
-- Ghi chú về cách tiếp cận
-- Điều gì khó khăn
-- Điều gì học được
+
 
 ---
 **Time**: X minutes  
